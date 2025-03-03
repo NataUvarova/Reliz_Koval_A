@@ -1,0 +1,1015 @@
+
+body {
+    font-family: sans-serif;
+    /* Shop */
+
+position: relative;
+width: 1280px;
+height: 4454px;
+overflow-y: scroll;
+text-decoration: none;
+background: #FFFFFF;
+
+}
+nav{
+    width: 100%;
+}
+header{
+    /* Rectangle 1 */
+
+position: absolute;
+width: 1280px;
+height: 616px;
+left: 0px;
+top: 0px;
+
+background: #fdf9f9;
+
+}
+.logo{
+    /* image 1 */
+
+position: absolute;
+width: 252px;
+height: 202px;
+left: 473px;
+top: 41px;
+
+background: url(image.png);
+border-radius: 25px;
+}
+h1{
+    
+position: absolute;
+width: 354px;
+height: 60px;
+left: 536px;
+top: 370px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 75px;
+
+color: #131212;
+
+}
+h1:hover{
+    transform: scale(1.5);
+    transition:1s linear;
+}
+.catalog1{
+    /* Акції */
+
+position: absolute;
+width: 46px;
+height: 23px;
+left: 340px;
+top: 250px;
+text-decoration: none;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+}
+.catalog1:hover{
+    color: rgb(85, 67, 248);
+    transform: scale(1.5);
+}
+.catalog2{
+       /* Магазин */
+
+position: absolute;
+width: 81px;
+height: 23px;
+left: 463px;
+top: 250px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.catalog2:hover{
+    color: rgb(61, 51, 255);
+    transform: scale(1.5);
+}
+ 
+
+
+.catalog3{
+    /* Новини */
+
+position: absolute;
+width: 72px;
+height: 23px;
+left: 606px;
+top: 250px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+}
+.catalog3:hover{
+    color: rgb(67, 61, 249);
+    transform: scale(1.5);
+}
+.catalog4{
+/* Пронас */
+
+position: absolute;
+width: 70px;
+height: 23px;
+left: 746px;
+top: 250px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+
+}
+.catalog4:hover{
+    color: rgb(82, 57, 247);
+    transform: scale(1.5);
+}
+.catalog5{
+    /* Контакти */
+
+position: absolute;
+width: 188px;
+height: 23px;
+left: 905px;
+top: 250px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+}
+.catalog5:hover{
+    color: rgb(75, 52, 248);
+    transform: scale(1.5);
+}
+.us{
+    /* Про нас */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 88px;
+top: 700px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #443bf5;
+
+}
+.info p{
+    
+position: absolute;
+width: 574px;
+height: 168px;
+left: 88px;
+top: 826px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+.copilka{
+    /* image 2 */
+
+position: absolute;
+width: 400px;
+height: 393px;
+left: 792px;
+top: 787px;
+
+background: url(image.png);
+border-radius: 30px;
+
+}
+.tovar{
+    /* Каталог */
+
+position: relative;
+width: 381px;
+height: 56px;
+left: 549px;
+top: 1257px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: rgb(68, 48, 248);
+
+
+}
+
+
+
+.tovar:hover {
+    transition: 1s linear;
+    transform: scale(1.2);
+}
+
+.t-shirt-img {
+    position: absolute;
+    width: 300px;
+    height: 250px;
+    left: 30px;
+    top: 1390px;   
+
+}
+.t-shirt1-img {
+    position: absolute;
+    width: 300px;
+    height: 250px;
+    left: 30px;
+    top: 1990px;   
+
+}
+
+.t-shirt-t {
+    position: absolute;
+    width: 343px;
+    height: 38px;
+    left: 120px;
+    top: 1591px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.t-shirt1-t {
+
+    position: absolute;
+    width: 343px;
+    height: 38px;
+    left: 60px;
+    top: 2205px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.text1 {
+
+    position: absolute;
+    width: 337px;
+    height: 46px;
+    left: 444px;
+    top: 1680px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+
+
+}
+.text {
+    
+
+    position: absolute;
+    width: 326px;
+    height: 23px;
+    left: 70px;
+    top: 1669px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+
+
+}
+.text2 {
+   
+
+    position: absolute;
+    width: 309px;
+    height: 161px;
+    left: 780px;
+    top: 1639px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+
+
+}
+
+
+.text4 {
+    position: relative;
+    width: 326px;
+    height: 23px;
+    left: 30px;
+    top:2255px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+
+}
+
+.sallary {
+    position: absolute;
+    width: 196px;
+    height: 28px;
+    left: 100px;
+    top: 1882px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+    background-color: #5CA5F2;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+.sallary4 {
+    position: absolute;
+    width: 196px;
+    height: 28px;
+    left: 100px;
+    top: 2450px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+    background-color: #5CA5F2;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+.sallary4:hover {
+    box-shadow: 3px 3px 3px 3px grey;
+    transition: 1s linear;
+}
+
+.snnkiy-img {
+    position: absolute;
+    width: 205px;
+    height: 225px;
+    left: 449px;
+    top: 1429px;
+
+}
+.snnkiy1-img {
+
+    position: absolute;
+    width: 205px;
+    height: 225px;
+    left: 449px;
+    top: 2005px;
+
+
+}
+
+.h4 {
+    
+    position: absolute;
+    width: 280px;
+    height: 30px;
+    left: 440px;
+    top: 1625px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.h45 {
+    
+
+    position: absolute;
+    width: 280px;
+    height: 30px;
+    left: 440px;
+    top: 2225px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.text15 {
+
+    position: absolute;
+    width: 337px;
+    height: 46px;
+    left: 444px;
+    top: 2295px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+
+
+}
+
+.sallary1 {
+
+    position: absolute;
+    width: 182px;
+    height: 28px;
+    left: 449px;
+    top: 1882px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+    background-color: #5CA5F2;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+
+
+}
+.sallary15 {
+
+    position: absolute;
+    width: 182px;
+    height: 28px;
+    left: 449px;
+    top: 2450px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+    background-color: #5CA5F2;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+
+
+}
+
+.sallary1:hover {
+    box-shadow: 3px 3px 3px 3px grey;
+    transition: 1s linear;
+}
+.sallary15:hover {
+    box-shadow: 3px 3px 3px 3px grey;
+    transition: 1s linear;
+}
+
+.w-img {
+    
+
+    position: absolute;
+    width: 350px;
+    height: 215px;
+    left: 735px;
+    top: 1419px;
+
+}
+.w6-img {
+    
+
+    position: absolute;
+    width: 350px;
+    height: 215px;
+    left: 735px;
+    top: 2005px;
+
+}
+.fut {
+    
+
+    position: absolute;
+    width: 255px;
+    height: 38px;
+    left: 800px;
+    top: 1585px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+
+.fut6 {
+    
+
+    position: absolute;
+    width: 255px;
+    height: 38px;
+    left: 800px;
+    top: 2225px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+.text2 {
+   
+
+    position: absolute;
+    width: 309px;
+    height: 161px;
+    left: 800px;
+    top: 1659px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+
+
+}
+.text26 {
+   
+
+    position: absolute;
+    width: 309px;
+    height: 161px;
+    left: 800px;
+    top: 2295px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+
+
+}
+
+.sallary2 {
+    
+
+    position: absolute;
+    width: 196px;
+    height: 28px;
+    left: 790px;
+    top: 1882px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+    background-color: #5CA5F2;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+
+
+}
+.sallary26 {   
+
+    position: absolute;
+    width: 196px;
+    height: 28px;
+    left: 790px;
+    top: 2450px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+    background-color: #5CA5F2;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center
+}
+.sallary2:hover {
+    box-shadow: 3px 3px 3px 3px grey;
+    transition: 1s linear;
+}
+.sallary26:hover {
+    box-shadow: 3px 3px 3px 3px grey;
+    transition: 1s linear;
+}
+.vidguku{
+    position: relative;
+    top:450px;
+}
+.vidguk_1 {
+    /* Відгуки */
+
+    position: relative;
+    width: 168px;
+    height: 56px;
+    left: 450px;
+    top: 2000px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+
+
+}
+
+.vidguk_1:hover {
+    transition: 1s linear;
+    transform: scale(1.2);
+}
+
+.vidguk-img {
+    /* images (7) */
+
+    position: relative;
+    width: 190px;
+    height: 190px;
+    left: 119px;
+    top: 2000px;
+
+
+} 
+.second-art {
+   
+
+    position: relative;
+    width: 600px;
+    height: 28px;
+    left: 357px;
+    top: 250px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+
+}
+
+.second-img {
+    
+
+    position: relative;
+    width: 190px;
+    height: 190px;
+    left: 119px;
+    top: 2019px;
+    border-radius: 50%;
+
+}
+
+.second-art p {
+
+    position: relative;
+    width: 600px;
+    height: 28px;
+    left: 57px;
+    top: 1850px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+
+}
+.second-art1 p {
+
+    position: absolute;
+    width: 600px;
+    height: 28px;
+    left: 357px;
+    top: 2102px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+
+}
+
+
+
+
+.cs{
+    /* Де нас знайти? */
+
+position: relative;
+width: 344px;
+height: 56px;
+left: 468px;
+top: 2555px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: rgb(64, 55, 249);
+
+
+}
+a h2{
+    text-decoration: none;
+}
+iframe{
+    /* image */
+
+position: relative;
+width: 670px;
+height: 500px;
+left: 325px;
+top: 2566px;
+
+background: url(image.png);
+
+}
+.adress{
+    /* Адреса */
+
+position: relative;
+width: 125px;
+height: 42px;
+left: 577px;
+top: 2609px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+
+color: rgb(51, 71, 249);
+
+
+}
+.adress:hover{
+    transform: scale(1.1);
+    transition: 1s linear;
+}
+.top{
+    /* місто Волочиськвул. Незалежності 44 */
+
+position: relative;
+width: 540px;
+height: 84px;
+left: 359px;
+top: 2706px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.top1{
+    /* місто Харківвул. Сумська 60 */
+
+position: relative;
+width: 540px;
+height: 84px;
+left: 404px;
+top: 2708px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.top2{
+    /* місто Львіввул. Богдана Хмельницького 14 */
+
+position: relative;
+width: 540px;
+height: 84px;
+left: 359px;
+top: 2700px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;
+
+
+}
+footer{
+    /* Rectangle 11 */
+
+position: relative;
+width: 1280px;
+height: 185px;
+left: 0px;
+top: 2800px;
+
+background: #C4C4C4;
+
+}
+footer h4{
+    /* Номер телефону: 0800 502 990 */
+position: relative;
+width: 528px;
+height: 42px;
+left: 86px;
+top: 70px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+
+color: rgb(92, 52, 249);
+
+}
+
+footer p{
+    /* Соц мережі */
+position: relative;
+width: 131px;
+height: 28px;
+left: 971px;
+top: -42px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+}
+.i{
+    /* image 6 */
+position: relative;
+width: 74px;
+height: 67px;
+left: 971px;
+top: -50px;
+border-radius: 15px;
+}
+.t{
+    /* image 7 */
+position: relative;
+width: 74px;
+height: 67px;
+left: 1010px;
+top: -50px;
+border-radius: 15px;
+}
+
+.logo-img {
+    position: absolute;
+    left: 70%;
+    top: 15%;
+    width: 15%;
+    border-radius: 15%;
+
+}
+
+
+
